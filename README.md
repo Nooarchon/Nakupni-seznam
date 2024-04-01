@@ -1,2 +1,2 @@
 # Nakupni-seznam
-Je určená pro tvorbu nakuoního seznamu.
+Je určená pro tvorbu nakupního seznamu.
